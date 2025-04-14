@@ -1,0 +1,102 @@
+// Enter Flows between Nodes, like this:
+//         Source [AMOUNT] Target
+
+Kids [1] Gaming_Interact 
+Kids [1] Recess
+Kids [1] Teach_PC_keyboard_knobs
+Kids [1] Cello_Sounds
+Kids [1] Maddie_Church
+Kids [1] Boys_Bible_time 
+Kids [1] Maddie_tea_date
+Kids [1] Boys_Sword_battles
+Kids [1] Billiards
+Kids [1] Trampoline
+Kids [1] Carline
+Kids [1] Cuddle_Time_Movie
+Kids [1] Buffet
+Kids [1] Maddie_Hair
+Kids [1] Kids_Homework
+
+Family[1] Mom_Garden
+Family[1] Mom_Art
+Family[1] Mama_Delia
+Family[1] Nephews
+Family[1] Brother
+
+
+Friends [1] Gift_Painting
+Friends [1] Connect
+
+
+
+Self [1] Dive Physical 
+Self [1] Run
+Self [1] Physical_Therapy
+Self [1] Dental
+Self [1] Art Therapy
+Self [1] Trello_Calendar
+Self [1] Sankey
+
+
+
+
+Business [1] FCB_Biz_acct
+Business [1] Drive_100K_users
+Business [1] Artsy
+Business [1] Roblox
+Business [1] Tax_deductions
+
+
+Cisco [1] Site_Visit
+Cisco [1] Student_lab
+Cisco [1] BIZ_Dinner
+
+
+Divorce [1] lender
+Divorce [1] Simms_Document
+Divorce [1] Court_date
+
+
+
+
+
+
+
+Gaming_Interact [1] Actions Taken
+Recess[1] Actions Taken
+Gift_Painting [1] Actions Taken
+Connect [1] Actions Taken
+Dive Physical [1] Actions Taken
+FCB_Biz_acct [1] Actions Taken
+Teach_PC_keyboard_knobs [1] Actions Taken
+Run [1] Actions Taken
+Cello_Sounds [1] Actions Taken
+Maddie_Church [1] Actions Taken
+Boys_Bible_time [1] Actions Taken
+Maddie_tea_date [1] Actions Taken
+Boys_Sword_battles [1] Actions Taken
+Billiards [1] Actions Taken
+Trampoline [1] Actions Taken
+Physical_Therapy [1] Actions Taken
+Carline [1] Actions Taken
+Cuddle_Time_Movie [1] Actions Taken
+Drive_100K_users [1] Actions Taken
+Artsy [1] Actions Taken
+Roblox [1] Actions Taken
+Buffet [1] Actions Taken
+Maddie_Hair [1] Actions Taken
+Site_Visit [1] Actions Taken
+Kids_Homework [1] Actions Taken
+lender [1] Actions Taken
+Tax_deductions [1] Actions Taken
+Student_lab [1] Actions Taken
+BIZ_Dinner [1] Actions Taken
+Simms_Document [1] Actions Taken
+Court_date [1] Actions Taken
+Dental [1] Actions Taken
+Art [1] Actions Taken
+Trello_Calendar [1] Actions Taken
+Sankey [1] Actions Taken
+Mom_Garden [1] Actions Taken
+Mom_Art [1] Actions Taken
+Mama_Delia [1] Actions Taken
